@@ -1,0 +1,40 @@
+html{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-size: xx-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:#B3C8CF ;
+    
+    background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+}
+div{
+    height:50vh;
+    width:30%;
+    border:5px solid black;
+    position: relative;
+    left:30%;
+    padding-top:4%;
+    padding-left: 5%;
+    margin-left: 2%;
+    margin-top: 6%;
+    background-color: #135D66;
+    color:whitesmoke;
+    border-radius: 25px;
+    background-image: linear-gradient(120deg, #d4fc79 0%, #96e6a1 100%);
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+}
+ul li{
+    padding:5px;
+    margin:5px;
+    background-color: bisque;
+    border:5px solid black;
+    width:52%;
+    height:15%;
+    border-radius: 15px;
+    text-align: center;
+    font-weight: bolder;
+    list-style: none;
+    margin:8%;
+    color:black
+}
